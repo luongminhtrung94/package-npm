@@ -1,0 +1,19 @@
+{
+  "name": "package-helloworld-acc-demo",
+  "version": "1.0.0",
+  "description": "display hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luongminhtrung94/package-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luongminhtrung94/package-npm/issues"
+  },
+  "homepage": "https://github.com/luongminhtrung94/package-npm#readme"
+}
